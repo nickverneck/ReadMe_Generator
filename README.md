@@ -2,6 +2,7 @@
 
 ## Description
 its a dope generator to create better readmes for your projects, this readme was created with it!
+walkthrough video here https://www.youtube.com/watch?v=YAEIDi8reMk
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
